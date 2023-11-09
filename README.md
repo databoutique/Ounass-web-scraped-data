@@ -1,0 +1,14 @@
+# Ounass web scraped data 
+
+## About the website
+
+Launched on December 15, 2016, **Ounass** is a luxury e-commerce platform that caters exclusively to the Middle East. Founded by the renowned retail group, Al Tayer Group, it operates in GCC countries, including the UAE, Saudi Arabia, and Kuwait. Based in Dubai, Ounass offers an extensive selection of the world’s best high-end brands, such as Gucci, Prada, and Valentino, with an unbeatable personal shopping service. Being an unlisted private company, Ounass does not have a stock market symbol, IPO date, or available market cap. Here are the relevant links to the [Ounass](https://www.ounass.com/) website and their [Wikipedia](https://en.wikipedia.org/wiki/Al_Tayer_Group) page, which covers details on the Al Tayer Group. A Bloomberg page for Ounass is currently unavailable.
+
+Ounass faces competition from various players in the luxury e-commerce segment across the Middle East. This includes **Net-a-Porter**, an online luxury fashion retailer that stocks numerous leading designer brands; **The Modist**, a fashion platform known for pioneering luxury modest fashion; and **Farfetch**, well-known for uniting boutiques and labels from around the world on one retail platform. For a detailed description and analysis of these competitors, access their websites, [Net-a-Porter](https://www.net-a-porter.com/), [The Modist](https://www.themodist.com/), and [Farfetch](https://www.farfetch.com/), along with their Bloomberg pages, [Net-a-Porter](https://www.bloomberg.com/profile/company/NETAPORT:LN), [The Modist](https://www.bloomberg.com/profile/company/1638425D:UH), and [Farfetch](https://www.bloomberg.com/profile/company/FTCH:US). Wikipedia pages for [Net-a-Porter](https://en.wikipedia.org/wiki/Net-a-Porter), [The Modist](https://en.wikipedia.org/wiki/The_Modist), and [Farfetch](https://en.wikipedia.org/wiki/Farfetch) are also available. 
+
+Web scraped data is particularly useful for **Ounass** as it aids in gaining competitive insights and facilitates strategy formulation. One significant use case is tracking product prices and discounts over time across various categories. This can help Ounass assess market trends, analyze pricing strategies of competitors, and subsequently adjust their own pricing and discount tactics for better positioning in the market. Additionally, scraped data can offer valuable insights into customer preferences and behaviors, thus aiding in inventory management and personalized marketing. Moreover, through recognizing trending styles and brands within the scraped data, Ounass can optimize product assortments and improve customer satisfaction. Lastly, web scraped data can lend strategic insights on peak buying times and patterns, thereby enabling efficient sales forecasting.
+
+
+## Link to **dataset**
+
+[Ounass dataset](https://www.databoutique.com/buy-data-list-subset/Ounass%20web%20scraped%20data/r/recukYMrXuc8VNnxm)
